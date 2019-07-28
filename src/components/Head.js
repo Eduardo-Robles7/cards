@@ -4,7 +4,7 @@ import { Divider, Header } from "semantic-ui-react";
 export default function Head() {
   return (
     <div>
-      <Header as="h1">Cards</Header>
+      <Header as="h1">Cards Demo</Header>
       <Divider />
     </div>
   );
